@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jachimoo
-- 👀 Just a IT student trying to learn how to make a website
+- 👀 Just a Computer Science student trying to learn how to make a code
 
